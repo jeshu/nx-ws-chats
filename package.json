@@ -28,13 +28,18 @@
   "private": true,
   "dependencies": {
     "core-js": "^3.6.5",
+    "date-fns": "^2.16.1",
     "document-register-element": "1.13.1",
     "express": "4.17.1",
     "react": "17.0.1",
+    "react-bootstrap-sweetalert": "^5.2.0",
     "react-dom": "17.0.1",
     "react-is": "17.0.1",
+    "semantic-ui-react": "^2.0.1",
     "styled-components": "5.2.1",
-    "tslib": "^2.0.0"
+    "tslib": "^2.0.0",
+    "uuid": "^8.3.2",
+    "ws": "^7.4.2"
   },
   "devDependencies": {
     "@babel/core": "7.9.6",
